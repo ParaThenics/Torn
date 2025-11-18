@@ -1,0 +1,18 @@
+{
+  "scenarios": {
+    "Eight Lives": {
+      "Profitable": "10k",
+      "Flamethrower": "No",
+      "Place": "4 gasoline",
+      "Stoke": "1 Gasoline",
+      "Dampen": "1 blanket"
+    },
+    "Family Feud": {
+      "Profitable": "8k",
+      "Flamethrower": "No",
+      "Place": "3 gasoline",
+      "Stoke": "1 Gasoline",
+      "Dampen": "1 blanket"
+    }
+  }
+}
